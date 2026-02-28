@@ -1,0 +1,7 @@
+#ignore all data
+data/
+
+# ignore temp data
+.ipynb_checkpoints/
+__pycache__/
+.env
